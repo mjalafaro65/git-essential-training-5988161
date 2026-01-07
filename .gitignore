@@ -3,7 +3,7 @@ node_modules
 .tmp
 npm-debug.log
 
-log02.log
+#log02.log
 
-Second_Folder/*.log
-every file ending with log in folder not tracked 
+#Second_Folder/*.log
+#every file ending with log in folder not tracked 
